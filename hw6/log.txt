@@ -1,0 +1,31 @@
+
+[“Main”][“task.GenerateTaskList()”, ”employee.GenerateEmployerList()”] Генерация сотрудников и заданий
+[“Main”][“Menu(employee,task)”] Открытие главного меню
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 3
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 3
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 3
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 1
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 2
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 5
+[“Main”][“Menu(employee,task)”] Открытие меню фильтрации
+[“Main”][“FilteringMenu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 1
+[“Main”][“FilteringMenu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 2
+[“Main”][“FilteringMenu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 3
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 6
+[“Employee”][“AddEmployer()”][“String newFirstName”] Пользователь ввёл следующие данные:a
+[“Employee”][“AddEmployer()”][“String newMiddleName”] Пользователь ввёл следующие данные:b
+[“Employee”][“AddEmployer()”][“String newLastName”] Пользователь ввёл следующие данные:c
+[“Employee”][“AddEmployer()”][“int age”] Пользователь ввёл следующие данные:14
+[“Employee”][“AddEmployer()”][“String newPosition”] Пользователь ввёл следующие данные:asd
+[“Employee”][“AddEmployer()”][“String newCity”] Пользователь ввёл следующие данные:s
+[“Employee”][“AddEmployer()”][“int newWorkingHours”] Пользователь ввёл следующие данные:65
+[“Task”][“AddTask()”][”String newTaskName”] Пользователь ввёл следующие данные:sd
+[“Task”][“AddTask()”][”String newTaskDescription”] Пользователь ввёл следующие данные:e
+[“Task”][“AddTask()”][”int newReward”] Пользователь ввёл следующие данные:23
+[“Task”][“AddTask()”][”int newReward”] Пользователь ввёл следующие данные:4353
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 7
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 9
+[“SaveLoadEmployee”][“Save()”] Данные о сотрудниках сохранены
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 10
+[“SaveLoadEmployee”][“Load()”] Данные о сотрудниках загружены
+[“Main”][“Menu(Employee employee, Task task)”] Пользователь ввёл следующие данные: 8
